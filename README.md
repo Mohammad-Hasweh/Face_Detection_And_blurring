@@ -76,6 +76,14 @@ This web application provides a user interface for uploading and processing imag
 
 - **Sidebar**: Contains options to select the input type (`Image` or `Video`) and upload files.
 - **Main Page**: Displays the processed images or video frames.
+---
+
+## Video Showcase
+
+Here's a video showcasing the Streamlit web app:
+
+[![Streamlit Web App Showcase]](demo.gif)
+
 
 
 
