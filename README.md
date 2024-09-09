@@ -7,7 +7,7 @@ This project demonstrates face detection and blurring using OpenCV and MediaPipe
 
 ---
 
-## Command-Line Tool (`command_line_tool.py`)
+## Command-Line Tool (`APP_CLI.py`)
 
 ### Overview
 
@@ -39,7 +39,7 @@ This script processes images, videos, and webcam feeds from the command line. It
 
 
 
-## Streamlit Web App (`streamlit_app.py`)
+## Streamlit Web App (`APP_UI.py`)
 
 ### Overview
 
