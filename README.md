@@ -81,6 +81,7 @@ This web application provides a user interface for uploading and processing imag
 ## Video Showcase
 
 Here's a video showcasing the Streamlit web app:
+
 ![Streamlit Web App Showcase](demo.gif)
 
 
